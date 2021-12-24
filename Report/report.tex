@@ -1,6 +1,8 @@
 \documentclass[12pt]{article}
 
 \usepackage{styles/log-style}
+\usepackage[margin=2cm]{geometry}% http://ctan.org/pkg/geometry
+
 
 \begin{document}
 \begin{titlepage}
@@ -124,7 +126,7 @@
 \subsubsection*{Исходный код}
 \lstinputlisting{src/1_L.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/1.png}\newline\noindent
+\includegraphics[scale=0.45]{images/1.png}\newline\noindent
 
 \pagebreak
 \section{Stage 2-B: Grand Prix of IMO, Division 2}
@@ -141,7 +143,7 @@ $b$, котороу удовлетворяет условию, что $b = c^2 +
 \subsubsection*{Исходный код}
 \lstinputlisting{src/2_m.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/2.png}\newline\noindent
+\includegraphics[scale=0.4]{images/2.png}\newline\noindent
 
 \pagebreak
 \section{Stage 3-B: Grand Prix of XiAn, Division 2}
@@ -155,7 +157,19 @@ $b$, котороу удовлетворяет условию, что $b = c^2 +
 \subsubsection*{Исходный код}
 \lstinputlisting{src/3_N.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/3.png}\newline\noindent
+\includegraphics[scale=0.45]{images/3.png}\newline\noindent
+
+\pagebreak
+\section{Отбор на всесибирскую олимпиаду}
+\includegraphics[scale=0.75]{statements/Vsesib.png}
+\subsubsection*{Идея}
+Создаем функцию solve для решения нашей задачи. В ней для каждой части акта мы проверяем нарушается ли условие Густава. Для каждого акта проходим и считаем количество сцен. 
+Если условие нарушается, то выводим “НЕТ”, в противном случае выводим “ДА”.
+\\ 
+\subsubsection*{Исходный код}
+\lstinputlisting{src/Vsesib.cpp}
+\subsubsection*{Положение команды}
+\includegraphics[scale=0.35]{images/Vsesib.png}\newline\noindent
 
 \pagebreak
 \section{Stage 4-B: Grand Prix of Korea, Division 2}
@@ -167,7 +181,7 @@ $b$, котороу удовлетворяет условию, что $b = c^2 +
 \subsubsection*{Исходный код}
 \lstinputlisting{src/4_A.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/4.png}\newline\noindent
+\includegraphics[scale=0.45]{images/4.png}\newline\noindent
 
 \pagebreak
 \section{Stage 5-B: Grand Prix of Siberia, Div 2}
@@ -179,7 +193,7 @@ $b$, котороу удовлетворяет условию, что $b = c^2 +
 \subsubsection*{Исходный код}
 \lstinputlisting{src/5_3.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/5.png}\newline\noindent
+\includegraphics[scale=0.35]{images/5.png}\newline\noindent
 
 \pagebreak
 \section{Stage 6-B: Grand Prix of EDG, Div 2}
@@ -192,7 +206,7 @@ $b$, котороу удовлетворяет условию, что $b = c^2 +
 \subsubsection*{Исходный код}
 \lstinputlisting{src/6_M.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/6.png}\newline\noindent
+\includegraphics[scale=0.35]{images/6.png}\newline\noindent
 
 
 \pagebreak
@@ -209,7 +223,7 @@ $b$, котороу удовлетворяет условию, что $b = c^2 +
 \subsubsection*{Исходный код}
 \lstinputlisting{src/7_P.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/7.png}\newline\noindent
+\includegraphics[scale=0.25]{images/7.png}\newline\noindent
 
 
 \pagebreak
@@ -224,7 +238,7 @@ $used[s[i] – `0`]$ значение true. После этого на кажд�
 \subsubsection*{Исходный код}
 \lstinputlisting{src/8_R.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/8.png}\newline\noindent
+\includegraphics[scale=0.25]{images/8.png}\newline\noindent
 
 \pagebreak
 \section{Stage 9-B: Grand Prix of Nanjing, Div 2}
@@ -239,22 +253,12 @@ $used[s[i] – `0`]$ значение true. После этого на кажд�
 \subsubsection*{Исходный код}
 \lstinputlisting{src/9_Q.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/9.png}\newline\noindent
+\includegraphics[scale=0.35]{images/9.png}\newline\noindent
+
+
 
 \pagebreak
-\section{Отбор на всесибирскую олимпиаду}
-\includegraphics[scale=0.75]{statements/Vsesib.png}
-\subsubsection*{Идея}
-Создаем функцию solve для решения нашей задачи. В ней для каждой части акта мы проверяем нарушается ли условие Густава. Для каждого акта проходим и считаем количество сцен. 
-Если условие нарушается, то выводим “НЕТ”, в противном случае выводим “ДА”.
-\\ 
-\subsubsection*{Исходный код}
-\lstinputlisting{src/Vsesib.cpp}
-\subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/Vsesib.png}\newline\noindent
-
-\pagebreak
-\section{Moscow Regional Contest}
+\section{Moscow Regional}
 \includegraphics[scale=0.75]{statements/QuarterFinal_F.png}
 \subsubsection*{Идея}
 Если дано более трех вершин, будем строить “круглый” граф, то есть граф, с ребрами вида [i, i+1], [i+1,i+2]...[i+n, i]. Такое построение 
@@ -265,7 +269,7 @@ $used[s[i] – `0`]$ значение true. После этого на кажд�
 \subsubsection*{Исходный код}
 \lstinputlisting{src/QuarterFinal_F.cpp}
 \subsubsection*{Положение команды}
-\includegraphics[scale=0.5]{images/QuarterFinal.png}\newline\noindent
+\includegraphics[scale=0.25]{images/QuarterFinal.png}\newline\noindent
 
 
 \end{document}

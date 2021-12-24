@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.31)  24 DEC 2021 21:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.31)  24 DEC 2021 21:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -671,35 +671,52 @@ Package csquotes Info: Redefining alias 'default' -> 'russian'.
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
-)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+)) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count305
+\Gm@cntv=\count306
+\c@Gm@tempcnt=\count307
+\Gm@bindingoffset=\dimen180
+\Gm@wd@mp=\dimen181
+\Gm@odd@mp=\dimen182
+\Gm@even@mp=\dimen183
+\Gm@layoutwidth=\dimen184
+\Gm@layoutheight=\dimen185
+\Gm@layouthoffset=\dimen186
+\Gm@layoutvoffset=\dimen187
+\Gm@dimlist=\toks31
+) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count305
+\l__kernel_color_stack_int=\count308
 \l__pdf_internal_box=\box106
 ) (/home/nezhov/OlimpReport/Report/report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T2B/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 \AtBeginShipoutBox=\box107
-Package hyperref Info: Link coloring ON on input line 5.
+Package hyperref Info: Link coloring ON on input line 7.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -707,35 +724,35 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count306
+\c@section@level=\count309
 )
-LaTeX Info: Redefining \ref on input line 5.
-LaTeX Info: Redefining \pageref on input line 5.
-LaTeX Info: Redefining \nameref on input line 5.
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
  (/home/nezhov/OlimpReport/Report/report.out) (/home/nezhov/OlimpReport/Report/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count307
-\scratchdimen=\dimen180
+\scratchcounter=\count310
+\scratchdimen=\dimen188
 \scratchbox=\box108
-\nofMPsegments=\count308
-\nofMParguments=\count309
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count310
-\MPscratchDim=\dimen181
-\MPnumerator=\count311
-\makeMPintoPDFobject=\count312
-\everyMPtoPDFconversion=\toks32
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen189
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks33
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\c@lstlisting=\count313
+\c@lstlisting=\count316
  (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
@@ -743,11 +760,45 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=681.15898pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-15.36449pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 31.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 31.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -755,34 +806,28 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.117 \section
+l.119 \section
               {Stage 1-B: Grand Prix of Dolgoprudny, Division 2} [1]
 <statements/1_L.png, id=62, 508.8398pt x 617.2448pt>
 File: statements/1_L.png Graphic file (type png)
 <use statements/1_L.png>
-Package pdftex.def Info: statements/1_L.png  used on input line 118.
+Package pdftex.def Info: statements/1_L.png  used on input line 120.
 (pdftex.def)             Requested size: 381.6289pt x 462.93246pt.
- [2 </home/nezhov/OlimpReport/Report/statements/1_L.png (PNG copy)>]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 125.
-LaTeX Font Info:    Trying to load font information for T2B+cmtt on input line 125.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 127.
+LaTeX Font Info:    Trying to load font information for T2B+cmtt on input line 127.
  (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmtt.fd
 File: t2bcmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ) (/home/nezhov/OlimpReport/Report/src/1_L.cpp
 LaTeX Font Info:    Font shape `T2B/cmtt/bx/n' in size <10> not available
 (Font)              Font shape `T2B/cmtt/m/n' tried instead on input line 1.
-)
-<images/1.png, id=71, 1036.85327pt x 38.34735pt>
+ [2 </home/nezhov/OlimpReport/Report/statements/1_L.png (PNG copy)>])
+<images/1.png, id=79, 1036.85327pt x 38.34735pt>
 File: images/1.png Graphic file (type png)
 <use images/1.png>
-Package pdftex.def Info: images/1.png  used on input line 127.
-(pdftex.def)             Requested size: 518.42537pt x 19.17361pt.
+Package pdftex.def Info: images/1.png  used on input line 129.
+(pdftex.def)             Requested size: 466.57967pt x 17.25613pt.
 
-Overfull \hbox (63.18129pt too wide) in paragraph at lines 127--128
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
 
  []
 
@@ -790,270 +835,224 @@ Underfull \hbox (badness 10000) in paragraph at lines 127--128
 <statements/2_M.png, id=94, 522.11388pt x 550.13693pt>
 File: statements/2_M.png Graphic file (type png)
 <use statements/2_M.png>
-Package pdftex.def Info: statements/2_M.png  used on input line 131.
+Package pdftex.def Info: statements/2_M.png  used on input line 133.
 (pdftex.def)             Requested size: 391.58446pt x 412.60168pt.
- [4 </home/nezhov/OlimpReport/Report/statements/2_M.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/2_M.cpp [5])
-<images/2.png, id=151, 1230.0649pt x 38.34735pt>
+ (/home/nezhov/OlimpReport/Report/src/2_M.cpp [4 </home/nezhov/OlimpReport/Report/statements/2_M.png (PNG copy)>])
+<images/2.png, id=106, 1230.0649pt x 38.34735pt>
 File: images/2.png Graphic file (type png)
 <use images/2.png>
-Package pdftex.def Info: images/2.png  used on input line 144.
-(pdftex.def)             Requested size: 615.03094pt x 19.17361pt.
+Package pdftex.def Info: images/2.png  used on input line 146.
+(pdftex.def)             Requested size: 492.01724pt x 15.33865pt.
 
-Overfull \hbox (159.78687pt too wide) in paragraph at lines 144--145
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 
  []
 
-[6 </home/nezhov/OlimpReport/Report/images/2.png (PNG copy)>]
-<statements/3_N.png, id=165, 410.75908pt x 620.1946pt>
+[5 </home/nezhov/OlimpReport/Report/images/2.png (PNG copy)>]
+<statements/3_N.png, id=160, 410.75908pt x 620.1946pt>
 File: statements/3_N.png Graphic file (type png)
 <use statements/3_N.png>
-Package pdftex.def Info: statements/3_N.png  used on input line 148.
+Package pdftex.def Info: statements/3_N.png  used on input line 150.
 (pdftex.def)             Requested size: 308.06854pt x 465.1448pt.
-
-Overfull \hbox (19.44006pt too wide) in paragraph at lines 150--155
-\T2B/cmr/m/n/12 Сложность дан-но-го ал-го-рит-ма $\OML/cmm/m/it/12 O\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 n \OMS/cmsy/m/n/12 ^^A [] \OML/cmm/m/it/12 m\OT1/cmr/m/n/12 )$ \T2B/cmr/m/n/12 (что-бы по-счи-тать XOR, нуж-но $\OML/cmm/m/it/12 log[][]$
- []
-
-[7 </home/nezhov/OlimpReport/Report/statements/3_N.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/3_N.cpp)
-<images/3.png, id=171, 1141.57101pt x 35.39755pt>
+ (/home/nezhov/OlimpReport/Report/src/3_N.cpp [6 </home/nezhov/OlimpReport/Report/statements/3_N.png (PNG copy)>])
+<images/3.png, id=170, 1141.57101pt x 35.39755pt>
 File: images/3.png Graphic file (type png)
 <use images/3.png>
-Package pdftex.def Info: images/3.png  used on input line 158.
-(pdftex.def)             Requested size: 570.78412pt x 17.69872pt.
+Package pdftex.def Info: images/3.png  used on input line 160.
+(pdftex.def)             Requested size: 513.70221pt x 15.92874pt.
 
-Overfull \hbox (115.54004pt too wide) in paragraph at lines 158--159
+Overfull \hbox (13.21822pt too wide) in paragraph at lines 160--161
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--159
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 
  []
 
-[8 </home/nezhov/OlimpReport/Report/images/3.png (PNG copy)>]
-<statements/4_A.png, id=205, 306.04132pt x 584.79704pt>
+[7 </home/nezhov/OlimpReport/Report/images/3.png (PNG copy)>]
+<statements/Vsesib.png, id=201, 597.23125pt x 793.96625pt>
+File: statements/Vsesib.png Graphic file (type png)
+<use statements/Vsesib.png>
+Package pdftex.def Info: statements/Vsesib.png  used on input line 164.
+(pdftex.def)             Requested size: 447.92233pt x 595.47322pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+
+ []
+
+[8 </home/nezhov/OlimpReport/Report/statements/Vsesib.png>] (/home/nezhov/OlimpReport/Report/src/Vsesib.cpp)
+<images/Vsesib.png, id=208, 1362.08875pt x 55.20625pt>
+File: images/Vsesib.png Graphic file (type png)
+<use images/Vsesib.png>
+Package pdftex.def Info: images/Vsesib.png  used on input line 172.
+(pdftex.def)             Requested size: 476.7382pt x 19.32246pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
+
+ []
+
+[9] [10 </home/nezhov/OlimpReport/Report/images/Vsesib.png>]
+<statements/4_A.png, id=265, 306.04132pt x 584.79704pt>
 File: statements/4_A.png Graphic file (type png)
 <use statements/4_A.png>
-Package pdftex.def Info: statements/4_A.png  used on input line 162.
+Package pdftex.def Info: statements/4_A.png  used on input line 176.
 (pdftex.def)             Requested size: 229.53041pt x 438.5967pt.
- (/home/nezhov/OlimpReport/Report/src/4_A.cpp [9 </home/nezhov/OlimpReport/Report/statements/4_A.png (PNG copy)>])
-<images/4.png, id=212, 1150.42041pt x 33.92265pt>
+ (/home/nezhov/OlimpReport/Report/src/4_A.cpp [11 </home/nezhov/OlimpReport/Report/statements/4_A.png (PNG copy)>])
+<images/4.png, id=280, 1150.42041pt x 33.92265pt>
 File: images/4.png Graphic file (type png)
 <use images/4.png>
-Package pdftex.def Info: images/4.png  used on input line 170.
-(pdftex.def)             Requested size: 575.2088pt x 16.96127pt.
+Package pdftex.def Info: images/4.png  used on input line 184.
+(pdftex.def)             Requested size: 517.6844pt x 15.26503pt.
 
-Overfull \hbox (119.96472pt too wide) in paragraph at lines 170--171
+Overfull \hbox (17.20041pt too wide) in paragraph at lines 184--185
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
-[10 </home/nezhov/OlimpReport/Report/images/4.png (PNG copy)>]
-<statements/5_3.png, id=244, 685.56125pt x 794.97pt>
+[12 </home/nezhov/OlimpReport/Report/images/4.png (PNG copy)>]
+<statements/5_3.png, id=305, 685.56125pt x 794.97pt>
 File: statements/5_3.png Graphic file (type png)
 <use statements/5_3.png>
-Package pdftex.def Info: statements/5_3.png  used on input line 174.
+Package pdftex.def Info: statements/5_3.png  used on input line 188.
 (pdftex.def)             Requested size: 514.16968pt x 596.22604pt.
 
-Overfull \hbox (58.9256pt too wide) in paragraph at lines 174--175
+Overfull \hbox (13.68568pt too wide) in paragraph at lines 188--189
 [] 
  []
 
-[11]
-Overfull \vbox (29.95781pt too high) has occurred while \output is active []
-
- [12 </home/nezhov/OlimpReport/Report/statements/5_3.png>] (/home/nezhov/OlimpReport/Report/src/5_3.cpp)
-<images/5.png, id=256, 1320.935pt x 39.14626pt>
+[13 </home/nezhov/OlimpReport/Report/statements/5_3.png>] (/home/nezhov/OlimpReport/Report/src/5_3.cpp)
+<images/5.png, id=311, 1320.935pt x 39.14626pt>
 File: images/5.png Graphic file (type png)
 <use images/5.png>
-Package pdftex.def Info: images/5.png  used on input line 182.
-(pdftex.def)             Requested size: 660.46588pt x 19.57307pt.
+Package pdftex.def Info: images/5.png  used on input line 196.
+(pdftex.def)             Requested size: 462.33418pt x 13.70139pt.
 
-Overfull \hbox (205.2218pt too wide) in paragraph at lines 182--183
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--183
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
 
  []
 
-[13 </home/nezhov/OlimpReport/Report/images/5.png>]
-<statements/6_M.png, id=289, 493.845pt x 648.17157pt>
+[14 </home/nezhov/OlimpReport/Report/images/5.png>]
+<statements/6_M.png, id=343, 493.845pt x 648.17157pt>
 File: statements/6_M.png Graphic file (type png)
 <use statements/6_M.png>
-Package pdftex.def Info: statements/6_M.png  used on input line 186.
+Package pdftex.def Info: statements/6_M.png  used on input line 200.
 (pdftex.def)             Requested size: 370.38283pt x 486.12749pt.
- [14 </home/nezhov/OlimpReport/Report/statements/6_M.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/6_M.cpp)
-<images/6.png, id=295, 1382.91656pt x 45.92157pt>
+ (/home/nezhov/OlimpReport/Report/src/6_M.cpp [15 </home/nezhov/OlimpReport/Report/statements/6_M.png (PNG copy)>])
+<images/6.png, id=352, 1382.91656pt x 45.92157pt>
 File: images/6.png Graphic file (type png)
 <use images/6.png>
-Package pdftex.def Info: images/6.png  used on input line 195.
-(pdftex.def)             Requested size: 691.4566pt x 22.96072pt.
+Package pdftex.def Info: images/6.png  used on input line 209.
+(pdftex.def)             Requested size: 484.02806pt x 16.07278pt.
 
-Overfull \hbox (236.21252pt too wide) in paragraph at lines 195--196
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
 
  []
 
-[15 </home/nezhov/OlimpReport/Report/images/6.png (PNG copy)>]
-<statements/7_P.png, id=335, 328.97906pt x 640.64343pt>
+[16 </home/nezhov/OlimpReport/Report/images/6.png (PNG copy)>]
+<statements/7_P.png, id=390, 328.97906pt x 640.64343pt>
 File: statements/7_P.png Graphic file (type png)
 <use statements/7_P.png>
-Package pdftex.def Info: statements/7_P.png  used on input line 200.
+Package pdftex.def Info: statements/7_P.png  used on input line 214.
 (pdftex.def)             Requested size: 246.73369pt x 480.48138pt.
- [16 </home/nezhov/OlimpReport/Report/statements/7_P.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/7_P.cpp [17])
-<images/7.png, id=381, 1912.14375pt x 65.24374pt>
+ [17 </home/nezhov/OlimpReport/Report/statements/7_P.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/7_P.cpp)
+<images/7.png, id=396, 1912.14375pt x 65.24374pt>
 File: images/7.png Graphic file (type png)
 <use images/7.png>
-Package pdftex.def Info: images/7.png  used on input line 212.
-(pdftex.def)             Requested size: 956.06955pt x 32.62178pt.
+Package pdftex.def Info: images/7.png  used on input line 226.
+(pdftex.def)             Requested size: 478.03477pt x 16.31088pt.
 
-Overfull \hbox (500.82547pt too wide) in paragraph at lines 212--213
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 212--213
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
 
  []
 
 [18 </home/nezhov/OlimpReport/Report/images/7.png (PNG copy)>]
-<statements/8_R.png, id=397, 531.48563pt x 606.01407pt>
+<statements/8_R.png, id=447, 531.48563pt x 606.01407pt>
 File: statements/8_R.png Graphic file (type png)
 <use statements/8_R.png>
-Package pdftex.def Info: statements/8_R.png  used on input line 217.
+Package pdftex.def Info: statements/8_R.png  used on input line 231.
 (pdftex.def)             Requested size: 398.61324pt x 454.50943pt.
 
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 220.
+LaTeX Warning: Command \textendash invalid in math mode on input line 234.
 
-[19 </home/nezhov/OlimpReport/Report/statements/8_R.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/8_R.cpp)
-<images/8.png, id=403, 1913.1475pt x 60.225pt>
+(/home/nezhov/OlimpReport/Report/src/8_R.cpp [19 </home/nezhov/OlimpReport/Report/statements/8_R.png (PNG copy)>])
+<images/8.png, id=457, 1913.1475pt x 60.225pt>
 File: images/8.png Graphic file (type png)
 <use images/8.png>
-Package pdftex.def Info: images/8.png  used on input line 227.
-(pdftex.def)             Requested size: 956.57143pt x 30.11241pt.
+Package pdftex.def Info: images/8.png  used on input line 241.
+(pdftex.def)             Requested size: 478.2857pt x 15.0562pt.
 
-Overfull \hbox (501.32735pt too wide) in paragraph at lines 227--228
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 227--228
+Underfull \hbox (badness 10000) in paragraph at lines 241--242
 
  []
 
 [20 </home/nezhov/OlimpReport/Report/images/8.png (PNG copy)>]
-<statements/9_Q.png, id=446, 353.97551pt x 603.23326pt>
+<statements/9_Q.png, id=497, 353.97551pt x 603.23326pt>
 File: statements/9_Q.png Graphic file (type png)
 <use statements/9_Q.png>
-Package pdftex.def Info: statements/9_Q.png  used on input line 231.
+Package pdftex.def Info: statements/9_Q.png  used on input line 245.
 (pdftex.def)             Requested size: 265.48097pt x 452.42383pt.
- [21 </home/nezhov/OlimpReport/Report/statements/9_Q.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/9_Q.cpp)
-<images/9.png, id=452, 1434.35875pt x 51.19125pt>
+ (/home/nezhov/OlimpReport/Report/src/9_Q.cpp [21 </home/nezhov/OlimpReport/Report/statements/9_Q.png (PNG copy)>])
+<images/9.png, id=504, 1434.35875pt x 51.19125pt>
 File: images/9.png Graphic file (type png)
 <use images/9.png>
-Package pdftex.def Info: images/9.png  used on input line 242.
-(pdftex.def)             Requested size: 717.17763pt x 25.59555pt.
+Package pdftex.def Info: images/9.png  used on input line 256.
+(pdftex.def)             Requested size: 502.0331pt x 17.91719pt.
 
-Overfull \hbox (261.93355pt too wide) in paragraph at lines 242--243
+Overfull \hbox (1.5491pt too wide) in paragraph at lines 256--257
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 
  []
 
-[22] [23 </home/nezhov/OlimpReport/Report/images/9.png>]
-<statements/Vsesib.png, id=503, 597.23125pt x 793.96625pt>
-File: statements/Vsesib.png Graphic file (type png)
-<use statements/Vsesib.png>
-Package pdftex.def Info: statements/Vsesib.png  used on input line 246.
-(pdftex.def)             Requested size: 447.92233pt x 595.47322pt.
- [24]
-Overfull \vbox (29.20499pt too high) has occurred while \output is active []
-
- [25 </home/nezhov/OlimpReport/Report/statements/Vsesib.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 248--251
-
- []
-
-(/home/nezhov/OlimpReport/Report/src/Vsesib.cpp [26])
-<images/Vsesib.png, id=559, 1362.08875pt x 55.20625pt>
-File: images/Vsesib.png Graphic file (type png)
-<use images/Vsesib.png>
-Package pdftex.def Info: images/Vsesib.png  used on input line 254.
-(pdftex.def)             Requested size: 681.04271pt x 27.60304pt.
-
-Overfull \hbox (225.79863pt too wide) in paragraph at lines 254--255
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
-
- []
-
-[27 </home/nezhov/OlimpReport/Report/images/Vsesib.png>]
-<statements/QuarterFinal_F.png, id=570, 512.52704pt x 543.4999pt>
+[22 </home/nezhov/OlimpReport/Report/images/9.png>]
+<statements/QuarterFinal_F.png, id=549, 512.52704pt x 543.4999pt>
 File: statements/QuarterFinal_F.png Graphic file (type png)
 <use statements/QuarterFinal_F.png>
-Package pdftex.def Info: statements/QuarterFinal_F.png  used on input line 258.
+Package pdftex.def Info: statements/QuarterFinal_F.png  used on input line 262.
 (pdftex.def)             Requested size: 384.39432pt x 407.62392pt.
- [28 </home/nezhov/OlimpReport/Report/statements/QuarterFinal_F.png (PNG copy)>] (/home/nezhov/OlimpReport/Report/src/QuarterFinal_F.cpp)
-<images/QuarterFinal.png, id=576, 1911.14pt x 79.29625pt>
+ (/home/nezhov/OlimpReport/Report/src/QuarterFinal_F.cpp [23 </home/nezhov/OlimpReport/Report/statements/QuarterFinal_F.png (PNG copy)>])
+<images/QuarterFinal.png, id=562, 1911.14pt x 79.29625pt>
 File: images/QuarterFinal.png Graphic file (type png)
 <use images/QuarterFinal.png>
-Package pdftex.def Info: images/QuarterFinal.png  used on input line 268.
-(pdftex.def)             Requested size: 955.56767pt x 39.64801pt.
+Package pdftex.def Info: images/QuarterFinal.png  used on input line 272.
+(pdftex.def)             Requested size: 477.78383pt x 19.824pt.
 
-Overfull \hbox (500.3236pt too wide) in paragraph at lines 268--269
-[] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 268--269
+Underfull \hbox (badness 10000) in paragraph at lines 272--273
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
-[29 </home/nezhov/OlimpReport/Report/images/QuarterFinal.png (PNG copy)>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 275.
+[24 </home/nezhov/OlimpReport/Report/images/QuarterFinal.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 275.
  (/home/nezhov/OlimpReport/Report/report.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 275.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 275.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 9C8C886C4E7C18D52587EF56D44D6AE5;2903.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
+(rerunfilecheck)             Checksum: 499C8D0307C02A5C8645E83A83AD529B;2860.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 275.
  ) 
 Here is how much of TeX's memory you used:
- 15968 strings out of 482657
- 225068 string characters out of 5957838
- 794118 words of memory out of 5000000
- 30265 multiletter control sequences out of 15000+600000
+ 16420 strings out of 482657
+ 231688 string characters out of 5957838
+ 797118 words of memory out of 5000000
+ 30716 multiletter control sequences out of 15000+600000
  542672 words of font info for 51 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 42i,8n,62p,971b,1892s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,8n,62p,1034b,1949s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/nezhov/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbtt1000.600pk> </home/nezhov/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbrm1000.600pk> </home/nezhov/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbbx1200.600pk> </home/nezhov/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbrm1200.600pk> </home/nezhov/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbbx1440.600pk> </home/nezhov/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbbx1728.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on /home/nezhov/OlimpReport/Report/report.pdf (30 pages, 1373881 bytes).
+Output written on /home/nezhov/OlimpReport/Report/report.pdf (25 pages, 1372095 bytes).
 PDF statistics:
- 1068 PDF objects out of 1200 (max. 8388607)
- 666 compressed objects within 7 object streams
- 433 named destinations out of 1000 (max. 500000)
+ 1044 PDF objects out of 1200 (max. 8388607)
+ 648 compressed objects within 7 object streams
+ 428 named destinations out of 1000 (max. 500000)
  199 words of extra memory for PDF output out of 10000 (max. 10000000)
 
